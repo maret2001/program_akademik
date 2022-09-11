@@ -1,5 +1,5 @@
 # program_akademik
-Aplikasi sederhana tentang deskripsi akademik yang diinputkan oleh user. Dengan output terdiri dari:
+Program sederhana tentang deskripsi/keterangan akademik yang diinputkan oleh user. Dengan output terdiri dari:
 - Nama
 - Jenis Kelamin
 - Kategori golongan umur
