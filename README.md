@@ -1,2 +1,9 @@
 # program_akademik
-Aplikasi sederhana tentang deskripsi akademik yang diinputkan oleh user
+Aplikasi sederhana tentang deskripsi akademik yang diinputkan oleh user. Dengan output terdiri dari:
+- Nama
+- Jenis Kelamin
+- Kategori golongan umur
+- Asal Kampus
+- Status Mahasiswa berdasarkan semester berjalan
+- Tahun Masuk
+- Tahun Kelulusan
