@@ -13,8 +13,8 @@ Program sederhana tentang deskripsi/keterangan akademik yang diinputkan oleh use
 Simple program of academic information entered by the user. With an output consisting of:
 - Name
 - Sex
-- Age category
-- The name of University
-- Student Status based on current semester
-- Year of academic class
-- Year of graduation
+- Age Category
+- The Name of University
+- Student status based on current semester
+- Year of Academic Class
+- Year of Graduation
